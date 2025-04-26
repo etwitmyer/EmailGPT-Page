@@ -1,0 +1,74 @@
+.home {
+    --bd-primary: #33e7ff;
+    --bd-secondary: #2b5cfd;
+    --bd-accent: #ff9341;
+    --bd-primary-rgb: 111, 248, 252;
+    --bd-secondary-rgb: 43, 92, 253;
+    --bd-accent-rgb: 255, 147, 65;
+
+    .bd-masthead {
+        padding: 3rem 0;
+        background-image: linear-gradient(
+            180deg,
+            rgba(var(--bs-body-bg-rgb), 0.01),
+            rgba(var(--bs-body-bg-rgb), 1) 85%
+        ),
+        radial-gradient(ellipse at top left, rgba(var(--bd-primary-rgb), 0.5), transparent 50%),
+        radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),
+        radial-gradient(ellipse at center right, rgba(var(--bd-secondary-rgb), 0.5), transparent 50%),
+        radial-gradient(ellipse at center left, rgba(var(--bd-primary-rgb), 0.5), transparent 50%);
+    }
+
+    .btn-bd-primary {
+        --bs-btn-font-weight: 600;
+        --bs-btn-color: var(--bs-white);
+        --bs-btn-bg: var(--bd-secondary);
+        --bs-btn-border-color: var(--bd-secondary);
+        --bs-btn-border-radius: .5rem;
+        --bs-btn-hover-color: var(--bs-white);
+        --bs-btn-hover-bg: var(--bd-primary);
+        --bs-btn-hover-border-color: var(--bd-primary);
+        --bs-btn-focus-shadow-rgb: var(--bd-secondary-rgb);
+        --bs-btn-active-color: var(--bs-btn-hover-color);
+        --bs-btn-active-bg: var(--bd-primary);
+        --bs-btn-active-border-color: var(--bd-primary);
+    }
+}
+
+.navbar {
+    @extend .navbar-dark;
+
+    --bd-secondary-rgb: 43, 92, 253;
+
+    padding: .75rem 0;
+    background-color: transparent;
+    background-image: linear-gradient(to bottom, rgba(var(--bd-secondary-rgb), 1), rgba(var(--bd-secondary-rgb), 0.95));
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15), inset 0 -1px 0 rgba(0,0,0,0.15);
+}
+
+.text-primary {
+    color: var(--bd-primary);
+}
+
+.text-violet {
+    color: var(--bd-primary);
+}
+
+
+.list {
+    .card {
+        transition: transform 0.2s ease-in-out;
+
+        &:hover {
+            transform: scale(1.01);
+        }
+    }
+}
+
+.navbar-brand {
+    transition: transform 0.2s ease-in-out;
+
+    &:hover {
+        transform: rotate(-2deg) scale(1.1);
+    }
+}
