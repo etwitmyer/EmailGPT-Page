@@ -1,18 +1,16 @@
-# 🚀 ConexUs - Smart Contact Manager  
+# 🚀 EmailGPT - Smarter Email Threads
 
-**ConexUs** is a modern, AI-powered contact management tool designed to help you maintain and strengthen relationships effortlessly.  
-
-
+**EmailGPT** is an AI-powered Chrome extension for Gmail that makes navigating long email conversations effortless and productive.
 
 ## Some Main Features:
-✅ **Smart Reminders** – Get automatic notifications to stay in touch with contacts  
-✅ **AI-Powered Meeting Prep** – AI-generated conversation summaries & talking points  
-✅ **Voice Memo to Notes** – Convert voice memos into structured text  
-✅ **Calendar Syncing** – Automatically updates last-met dates from your calendar  
-✅ **Important Date Reminders** – Never forget birthdays or work anniversaries  
+✅ **Thread Summarization** – Instantly generate a high-level summary of entire email threads  
+✅ **Email-by-Email Breakdown** – See key points from each message without the clutter  
+✅ **Smart Suggested Replies** – Use AI to quickly craft thoughtful responses  
+✅ **Action Item Detection** – Highlight direct requests and to-dos automatically  
+✅ **Customizable Summaries** – Choose tone and focus areas for personalized results  
 
 ## Setup & Development  
 To run this project locally:  
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/etwitmyer/hugo-mock-landing-page.git
+   git clone https://github.com/etwitmyer/EmailGPT-Page.git

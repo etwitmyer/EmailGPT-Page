@@ -1,33 +1,67 @@
 ---
 title: "About"
-date: 2025-02-23
+date: 2025-04-26
 draft: false
 ---
 
-# Welcome to ConexUs 👥✨  
-**Your smart contact management solution**  
+# Welcome to EmailGPT 📬✨  
+**Your smart assistant for managing complex email threads**
 
-## 🚀 What is ConexUs?  
-ConexUs is a modern, AI-powered **contact management tool** designed to help individuals and professionals stay effortlessly connected. It helps you:  
+## 🚀 What is EmailGPT?  
+EmailGPT is a Chrome Extension that **summarizes, organizes, and enhances Gmail threads** to help users manage overwhelming email chains. It helps you:
 
-✅ **Track and manage relationships** with automatic reminders  
-✅ **Prepare for meetings** with AI-generated conversation summaries  
-✅ **Convert voice memos into notes** instantly  
-✅ **Sync contacts across devices** and calendars seamlessly  
+✅ **Summarize entire conversations** into concise highlights  
+✅ **Break down** each message with repetitive content filtered out  
+✅ **Highlight action items and requests** automatically  
+✅ **Suggest smart replies** using AI integration  
 
-With ConexUs, you’ll never lose touch with the people who matter most.  
+Stay informed, make decisions faster, and reply with confidence — all within Gmail.
 
 ---
 
 ## 🛠️ Built With  
-This site was created using **[Hugo](https://gohugo.io/)**, a **fast and flexible static site generator**, and the **Hugo Bootstrap Theme** by [Filipe Carneiro](https://github.com/filipecarneiro/hugo-bootstrap-theme).  
+This landing page was created using **[Hugo](https://gohugo.io/)**, a **fast and flexible static site generator**, and the **Hugo Bootstrap Theme** by [Filipe Carneiro](https://github.com/filipecarneiro/hugo-bootstrap-theme).
 
 ### 🌟 Special Thanks  
-A big thank you to the **open-source community** and contributors to Hugo and Bootstrap, whose work made this project possible!  
+A big thank you to the **open-source community** and the contributors behind Hugo, Bootstrap, and the AI technology that powers our app!
 
 ---
 
-## 💡 About the Creator  
-**Emma Twitmyer** is passionate about **technology, UX design, and efficient digital solutions**. This project was developed as part of a software engineering course to explore the power of **static site generators, GitHub Pages, and AI-driven tools**.  
+## 💡 About the Creators  
+**Emma Twitmyer, Allen Liu, Lisa Ayisi-Ahwireng, and Luna Chen**  
+are passionate about **technology, user experience, and productivity tools**.  
+This project was developed as part of a software engineering course to explore the intersection of **AI and communication workflows**.
 
-*Built with ❤️ by Emma Twitmyer & the Hugo Bootstrap Theme [team](https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors).*  
+---
+
+# 📈 Our Vision for EmailGPT
+
+**Problem:**  
+Long email chains are hard to follow, especially when new people are added midway. Critical information gets buried under pleasantries, repeated quotes, and unrelated messages.
+
+**Solution:**  
+EmailGPT automatically provides:
+
+- ✍️ **A high-level summary** of the entire conversation  
+- 🧩 **A message-by-message breakdown**, extracting only meaningful content  
+- 📋 **Action item detection** and tracking  
+- 🤖 **Suggested responses**, powered by ChatGPT
+
+All inside an elegant, easy-to-use overlay on Gmail.
+
+---
+
+## 🎯 Why EmailGPT?  
+
+- **Save Time:** Instantly see the important parts without reading every word  
+- **Reduce Noise:** Filter out greetings, sign-offs, and redundancy  
+- **Boost Productivity:** Respond faster with AI-suggested replies  
+- **Stay Organized:** Clearly track outstanding tasks and action items  
+
+---
+
+## 📚 Learn More
+
+To explore full user stories, technical notes, and future feature ideas, visit our project documentation or contact the team!
+
+*Built with ❤️ by the EmailGPT Team.*  

@@ -1,5 +1,5 @@
-baseURL = 'https://etwitmyer.github.io/hugo-mock-landing-page/'
-title = "ConexUs: Smart Contact Manager"
+baseURL = 'https://etwitmyer.github.io/EmailGPT-Page/'
+title = "EmailGPT"
 author = "Emma Twitmyer"
 copyright = "Emma Twitmyer"
 
@@ -49,6 +49,6 @@ enableEmoji = true
     target = "static"
 
 [params]
-  mainMenuLogo = "images/new-logo.png"
+  mainMenuLogo = "images/EmailGPTLogo.png"
   [params.assets]
     disableFingerprinting = true
