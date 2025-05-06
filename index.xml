@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EmailGPT</title>
+    <link>https://etwitmyer.github.io/EmailGPT-Page/</link>
+    <description>Recent content on EmailGPT</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Emma Twitmyer</copyright>
+    <lastBuildDate>Sat, 26 Apr 2025 16:54:58 -0400</lastBuildDate>
+    <atom:link href="https://etwitmyer.github.io/EmailGPT-Page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://etwitmyer.github.io/EmailGPT-Page/post/about/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0100</pubDate>
+      <guid>https://etwitmyer.github.io/EmailGPT-Page/post/about/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-emailgpt-&#34;&gt;Welcome to EmailGPT 📬✨&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your smart assistant for managing complex email threads&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-what-is-emailgpt&#34;&gt;🚀 What is EmailGPT?&lt;/h2&gt;&#xA;&lt;p&gt;EmailGPT is a Chrome Extension that &lt;strong&gt;summarizes, organizes, and enhances Gmail threads&lt;/strong&gt; to help users manage overwhelming email chains. It helps you:&lt;/p&gt;&#xA;&lt;p&gt;✅ &lt;strong&gt;Summarize entire conversations&lt;/strong&gt; into concise highlights&lt;br&gt;&#xA;✅ &lt;strong&gt;Break down&lt;/strong&gt; each message with repetitive content filtered out&lt;br&gt;&#xA;✅ &lt;strong&gt;Highlight action items and requests&lt;/strong&gt; automatically&lt;br&gt;&#xA;✅ &lt;strong&gt;Suggest smart replies&lt;/strong&gt; using AI integration&lt;/p&gt;&#xA;&lt;p&gt;Stay informed, make decisions faster, and reply with confidence — all within Gmail.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bootstrap Carousel 🎠</title>
+      <link>https://etwitmyer.github.io/EmailGPT-Page/page/bootstrap-carousel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://etwitmyer.github.io/EmailGPT-Page/page/bootstrap-carousel/</guid>
+      <description>&lt;h1 id=&#34;bootstrap-carousel&#34;&gt;Bootstrap Carousel&lt;/h1&gt;&#xA;&lt;p&gt;A slideshow component for cycling through elements—images or slides of text — like a carousel.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://getbootstrap.com/docs/5.3/components/carousel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carousel documentation&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
