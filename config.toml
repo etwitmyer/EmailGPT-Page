@@ -49,6 +49,6 @@ enableEmoji = true
     target = "static"
 
 [params]
-  mainMenuLogo = "images/EmailGPTLogo.png"
+  mainMenuLogo = "images/favicon.png"
   [params.assets]
     disableFingerprinting = true
