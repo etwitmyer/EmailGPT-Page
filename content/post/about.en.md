@@ -1,67 +1,61 @@
 ---
-title: "About"
+title: "About EmailGPT"
 date: 2025-04-26
 draft: false
 ---
 
-# Welcome to EmailGPT 📬✨  
-**Your smart assistant for managing complex email threads**
+**Your AI-powered assistant for managing complex email threads**
 
-## 🚀 What is EmailGPT?  
-EmailGPT is a Chrome Extension that **summarizes, organizes, and enhances Gmail threads** to help users manage overwhelming email chains. It helps you:
+## What is EmailGPT?  
+EmailGPT is a Chrome Extension that enhances Gmail by summarizing, organizing, and clarifying long email conversations. Designed for users who frequently deal with lengthy threads, EmailGPT helps you:
 
-✅ **Summarize entire conversations** into concise highlights  
-✅ **Break down** each message with repetitive content filtered out  
-✅ **Highlight action items and requests** automatically  
-✅ **Suggest smart replies** using AI integration  
+- Summarize entire conversations into concise highlights  
+- Break down individual messages with redundant content filtered out  
+- Automatically identify and highlight action items and requests  
+- Suggest smart replies using AI integration  
 
-Stay informed, make decisions faster, and reply with confidence — all within Gmail.
-
----
-
-## 🛠️ Built With  
-This landing page was created using **[Hugo](https://gohugo.io/)**, a **fast and flexible static site generator**, and the **Hugo Bootstrap Theme** by [Filipe Carneiro](https://github.com/filipecarneiro/hugo-bootstrap-theme).
-
-### 🌟 Special Thanks  
-A big thank you to the **open-source community** and the contributors behind Hugo, Bootstrap, and the AI technology that powers our app!
+Stay informed, respond quickly, and reduce email fatigue—all from within your email app.
 
 ---
 
-## 💡 About the Creators  
+## Built With  
+This landing page was built using [Hugo](https://gohugo.io/), a fast and flexible static site generator, and the Hugo Bootstrap Theme by [Filipe Carneiro](https://github.com/filipecarneiro/hugo-bootstrap-theme).
+
+### Acknowledgments  
+We thank the open-source community and the contributors behind Hugo, Bootstrap, and the technologies that support our app.
+
+---
+
+## About the Team  
 **Emma Twitmyer, Allen Liu, Lisa Ayisi-Ahwireng, and Luna Chen**  
-are passionate about **technology, user experience, and productivity tools**.  
-This project was developed as part of a software engineering course to explore the intersection of **AI and communication workflows**.
+This project was developed as part of a software engineering course to explore the integration of AI in communication workflows. Our team shares a passion for technology, usability, and improving everyday productivity tools.
 
 ---
 
-# 📈 Our Vision for EmailGPT
+## Vision  
+**The Problem**  
+Long email threads can be difficult to follow—especially when new recipients are added mid-conversation. Important information often gets buried under pleasantries, redundant quoting, and off-topic messages.
 
-**Problem:**  
-Long email chains are hard to follow, especially when new people are added midway. Critical information gets buried under pleasantries, repeated quotes, and unrelated messages.
+**Our Solution**  
+EmailGPT offers a better way to manage email:
 
-**Solution:**  
-EmailGPT automatically provides:
-
-- ✍️ **A high-level summary** of the entire conversation  
-- 🧩 **A message-by-message breakdown**, extracting only meaningful content  
-- 📋 **Action item detection** and tracking  
-- 🤖 **Suggested responses**, powered by ChatGPT
-
-All inside an elegant, easy-to-use overlay on Gmail.
+- A high-level summary of the full conversation  
+- Message-by-message breakdowns that extract only meaningful content  
+- Detection and tracking of action items and tasks  
+- AI-suggested responses integrated directly into the Gmail interface
 
 ---
 
-## 🎯 Why EmailGPT?  
+## Why EmailGPT?  
 
-- **Save Time:** Instantly see the important parts without reading every word  
-- **Reduce Noise:** Filter out greetings, sign-offs, and redundancy  
-- **Boost Productivity:** Respond faster with AI-suggested replies  
-- **Stay Organized:** Clearly track outstanding tasks and action items  
+- **Save Time:** Instantly see what matters  
+- **Cut Through the Noise:** Filter out fluff and repetition  
+- **Work Smarter:** Use suggested replies to respond efficiently  
+- **Stay on Track:** Clearly monitor outstanding tasks and requests  
 
 ---
 
-## 📚 Learn More
+## Learn More  
+Explore our project documentation, technical details, and user stories on GitHub or contact our team for more information.
 
-To explore full user stories, technical notes, and future feature ideas, visit our project documentation or contact the team!
-
-*Built with ❤️ by the EmailGPT Team.*  
+*Created by the EmailGPT Team.*

@@ -1,7 +1,7 @@
 baseURL = 'https://etwitmyer.github.io/EmailGPT-Page/'
 title = "EmailGPT"
-author = "Emma Twitmyer"
-copyright = "Emma Twitmyer"
+author = "Allen Liu, Emma Twitmyer, Lisa Ayisi-Ahwireng, Luna Chen"
+copyright = "CIS 3500 - Allen Liu, Emma Twitmyer, Lisa Ayisi-Ahwireng, Luna Chen"
 
 timeZone = 'Europe/London'
 
