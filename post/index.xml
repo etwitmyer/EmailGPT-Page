@@ -6,14 +6,21 @@
     <description>Recent content in Posts on EmailGPT</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Emma Twitmyer</copyright>
+    <copyright>CIS 3500 - Allen Liu, Emma Twitmyer, Lisa Ayisi-Ahwireng, Luna Chen</copyright>
     <atom:link href="https://etwitmyer.github.io/EmailGPT-Page/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>How To Use EmailGPT</title>
+      <link>https://etwitmyer.github.io/EmailGPT-Page/post/howto/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0100</pubDate>
+      <guid>https://etwitmyer.github.io/EmailGPT-Page/post/howto/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Learn how to install, use, and get the most out of our EmailGPT Chrome extension with our step-by-step guide.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VIDEO_ID?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Replace VIDEO_ID with the string after v= in the YouTube URL.&#xA;Example: for &lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=dQw4w9WgXcQ&lt;/a&gt;, use:&lt;/p&gt;&#xA;&lt;p&gt;markdown&#xA;Copy&#xA;Edit&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About EmailGPT</title>
       <link>https://etwitmyer.github.io/EmailGPT-Page/post/about/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0100</pubDate>
       <guid>https://etwitmyer.github.io/EmailGPT-Page/post/about/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-emailgpt-&#34;&gt;Welcome to EmailGPT 📬✨&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your smart assistant for managing complex email threads&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-what-is-emailgpt&#34;&gt;🚀 What is EmailGPT?&lt;/h2&gt;&#xA;&lt;p&gt;EmailGPT is a Chrome Extension that &lt;strong&gt;summarizes, organizes, and enhances Gmail threads&lt;/strong&gt; to help users manage overwhelming email chains. It helps you:&lt;/p&gt;&#xA;&lt;p&gt;✅ &lt;strong&gt;Summarize entire conversations&lt;/strong&gt; into concise highlights&lt;br&gt;&#xA;✅ &lt;strong&gt;Break down&lt;/strong&gt; each message with repetitive content filtered out&lt;br&gt;&#xA;✅ &lt;strong&gt;Highlight action items and requests&lt;/strong&gt; automatically&lt;br&gt;&#xA;✅ &lt;strong&gt;Suggest smart replies&lt;/strong&gt; using AI integration&lt;/p&gt;&#xA;&lt;p&gt;Stay informed, make decisions faster, and reply with confidence — all within Gmail.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Your AI-powered assistant for managing complex email threads&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-emailgpt&#34;&gt;What is EmailGPT?&lt;/h2&gt;&#xA;&lt;p&gt;EmailGPT is a Chrome Extension that enhances Gmail by summarizing, organizing, and clarifying long email conversations. Designed for users who frequently deal with lengthy threads, EmailGPT helps you:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Summarize entire conversations into concise highlights&lt;/li&gt;&#xA;&lt;li&gt;Break down individual messages with redundant content filtered out&lt;/li&gt;&#xA;&lt;li&gt;Automatically identify and highlight action items and requests&lt;/li&gt;&#xA;&lt;li&gt;Suggest smart replies using AI integration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay informed, respond quickly, and reduce email fatigue—all from within your email app.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
