@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>CIS 3500 - Allen Liu, Emma Twitmyer, Lisa Ayisi-Ahwireng, Luna Chen</copyright>
-    <lastBuildDate>Sun, 11 May 2025 17:22:15 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 20:27:17 -0400</lastBuildDate>
     <atom:link href="https://etwitmyer.github.io/EmailGPT-Page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use EmailGPT</title>
@@ -21,7 +21,7 @@
       <link>https://etwitmyer.github.io/EmailGPT-Page/post/about/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0100</pubDate>
       <guid>https://etwitmyer.github.io/EmailGPT-Page/post/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Your AI-powered assistant for managing complex email threads&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-emailgpt&#34;&gt;What is EmailGPT?&lt;/h2&gt;&#xA;&lt;p&gt;EmailGPT is a Chrome Extension that enhances Gmail by summarizing, organizing, and clarifying long email conversations. Designed for users who frequently deal with lengthy threads, EmailGPT helps you:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Summarize entire conversations into concise highlights&lt;/li&gt;&#xA;&lt;li&gt;Break down individual messages with redundant content filtered out&lt;/li&gt;&#xA;&lt;li&gt;Automatically identify and highlight action items and requests&lt;/li&gt;&#xA;&lt;li&gt;Suggest smart replies using AI integration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay informed, respond quickly, and reduce email fatigue—all from within your email app.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;what-is-emailgpt&#34;&gt;What is EmailGPT?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your AI-powered assistant for managing complex email threads&lt;/strong&gt;&#xA;EmailGPT is a Chrome Extension that enhances Gmail by summarizing, organizing, and clarifying long email conversations. Designed for users who frequently deal with lengthy threads, EmailGPT helps you:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Summarize entire conversations into concise highlights&lt;/li&gt;&#xA;&lt;li&gt;Break down individual messages with redundant content filtered out&lt;/li&gt;&#xA;&lt;li&gt;Automatically identify and highlight action items and requests&lt;/li&gt;&#xA;&lt;li&gt;Suggest smart replies using AI integration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay informed, respond quickly, and reduce email fatigue—all from within your email app.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bootstrap Carousel 🎠</title>
