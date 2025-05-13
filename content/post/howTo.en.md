@@ -6,4 +6,4 @@ draft: false
 
 **Learn how to install, use, and get the most out of our EmailGPT Chrome extension with our step-by-step guide.**
 
-{{< youtube bIIO-LMQ8Nw >}}
+{{< youtube LFwrSSquVGw >}}
